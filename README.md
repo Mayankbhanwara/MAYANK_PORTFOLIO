@@ -1,6 +1,6 @@
 # MAYANK BHANWARA | Java Full Stack Developer
 
-[Portfolio](https://www.nitinjainn.me/) | [LinkedIn](https://www.linkedin.com/in/nitin-jain-1808nj/) | [GitHub](https://github.com/Nitinjainn)
+[Portfolio](https://mayank-portfolio-sepia.vercel.app/) | [LinkedIn](linkedin.com/in/mayank-bhanwara-348a7336b | [GitHub](https://github.com/Mayankbhanwara)
 
 ---
 
@@ -8,7 +8,7 @@
 I’m a Java Full Stack Developer focused on backend systems, clean code, and DSA. I build high-performance web applications and experiment with decentralized technologies.
 
 - 📍 Based in Jaipur, India
-- 🔗 Live site: [nitinjainn.me](https://www.nitinjainn.me/)
+- 🔗 Live site: (https://mayank-portfolio-sepia.vercel.app/))
 
 ---
 

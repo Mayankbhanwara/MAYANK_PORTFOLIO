@@ -25,17 +25,9 @@ I’m a Java Full Stack Developer focused on backend systems, clean code, and DS
 
 ---
 
-## 🌟 Key Projects
-- **[HackZen](https://hackzen.vercel.app/)**: Full-stack hackathon management platform. (React, Node.js, MongoDB)
-- **[Soluma](https://soluma.vercel.app/)**: Decentralized event platform on Solana. (Web3, React)
-- **[Cryptify](https://cryptify-defi.vercel.app/)**: Web3 payment dApp with escrow contracts. (React, Web3)
-- **[VibeTribe](https://vibetribew3.vercel.app/)**: Web3 travel planning platform. (React, Blockchain)
-
----
-
 ## 🏗️ Project Structure
 ```bash
-Nitin-s-Portfolio/
+Mayank-s-Portfolio/
 ├── Portfolio/
 │   ├── src/
 │   │   ├── components/       # Modular React Components:
@@ -59,21 +51,11 @@ Nitin-s-Portfolio/
 │   └── vite.config.js        # Vite configuration
 └── README.md                 # Project documentation
 ```
-
----
-
-## ⚙️ Setup
-```bash
-git clone https://github.com/Nitinjainn/Nitin-s-Portfolio.git
-cd Portfolio && npm install && npm run dev
-```
-
 ---
 
 ## 📫 Contact
-- **Email**: [nitinjain18072005@gmail.com](mailto:nitinjain18072005@gmail.com)
-- **Twitter**: [@nitin_jain_007](https://x.com/nitin_jain_007)
-- **Discord**: `nitinjain007`
+- **Email**: [nitinjain18072005@gmail.com](mailto:mayankbhanwara2004@gmail.com)
+- **Twitter**: [@nitin_jain_007](https://x.com/MayankBhanwara)
 
 ---
-*Made by Nitin Jain*
+*Made by Mayank Bhanwara*

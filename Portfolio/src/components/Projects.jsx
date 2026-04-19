@@ -8,7 +8,7 @@ const projects = [
     title: '3D MODEL',
     subtitle: 'Frontend Interactive Project',
     desc: 'Created an interactive 3D model viewer for the web.',
-    tags: ['HTML', 'CSS', 'JavaScript'],
+    tags: ['HTML', 'CSS', 'JavaScript','MongoDB','FireBase'],
     link: 'https://gleaming-trifle-fd2978.netlify.app/',
     image: model3dImg,
   },

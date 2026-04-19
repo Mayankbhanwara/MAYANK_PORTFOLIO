@@ -1,6 +1,6 @@
 # MAYANK BHANWARA | Java Full Stack Developer
 
-[Portfolio](https://mayank-portfolio-sepia.vercel.app/) | [LinkedIn](linkedin.com/in/mayank-bhanwara-348a7336b | [GitHub](https://github.com/Mayankbhanwara)
+[Portfolio](https://mayank-portfolio-sepia.vercel.app/) | [LinkedIn](linkedin.com/in/mayank-bhanwara-348a7336b) | [GitHub](https://github.com/Mayankbhanwara)
 
 ---
 
@@ -8,7 +8,7 @@
 I’m a Java Full Stack Developer focused on backend systems, clean code, and DSA. I build high-performance web applications and experiment with decentralized technologies.
 
 - 📍 Based in Jaipur, India
-- 🔗 Live site: (https://mayank-portfolio-sepia.vercel.app/))
+- 🔗 Live site: [(https://mayank-portfolio-sepia.vercel.app/)]
 
 ---
 

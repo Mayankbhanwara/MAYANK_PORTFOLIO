@@ -1,4 +1,4 @@
-# Nitin Jain | Java Full Stack Developer
+# MAYANK BHANWARA | Java Full Stack Developer
 
 [Portfolio](https://www.nitinjainn.me/) | [LinkedIn](https://www.linkedin.com/in/nitin-jain-1808nj/) | [GitHub](https://github.com/Nitinjainn)
 

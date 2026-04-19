@@ -54,8 +54,8 @@ Mayank-s-Portfolio/
 ---
 
 ## 📫 Contact
-- **Email**: [nitinjain18072005@gmail.com](mailto:mayankbhanwara2004@gmail.com)
-- **Twitter**: [@nitin_jain_007](https://x.com/MayankBhanwara)
+- **Email**: [mayankbhanwara2004@gmail.com](mailto:mayankbhanwara2004@gmail.com)
+- **Twitter**: [@mayank_bhanwara](https://x.com/MayankBhanwara)
 
 ---
 *Made by Mayank Bhanwara*

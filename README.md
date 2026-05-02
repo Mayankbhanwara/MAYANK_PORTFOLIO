@@ -8,7 +8,7 @@
 I’m a Java Full Stack Developer focused on backend systems, clean code, and DSA. I build high-performance web applications and experiment with decentralized technologies.
 
 - 📍 Based in Jaipur, India
-- 🔗 Live site: [(https://mayank-portfolio-sepia.vercel.app/)]
+- 🔗 Live site: [(https://mayankbhanwara.me/)]
 
 ---
 
